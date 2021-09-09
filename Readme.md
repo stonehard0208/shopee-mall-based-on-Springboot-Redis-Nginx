@@ -4,7 +4,7 @@
 
 以下为文档部分内容。
 
-![](C:\Users\16968\Desktop\Tmall_demo2\Tmall_demo2\img\1.jpg)
+![](https://github.com/stonehard0208/shopee-mall-based-on-Springboot-Redis-Nginx/blob/master/img/1.jpg)
 
 ![2](C:\Users\16968\Desktop\Tmall_demo2\Tmall_demo2\img\2.jpg)
 
